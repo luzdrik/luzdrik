@@ -1,10 +1,6 @@
-## Hi! Welcome to my profile 👋🏼
+# Welcome to my profile 👋🏼. My name is Luiz and I'm a Software Engineering Student, from Universidade Federal do Rio Grande do Norte, Natal, Brazil.
 
-<div align="center">
-  My name is Luiz and I'm a Software Engineering Student, from Universidade Federal do Rio Grande do Norte, Natal, Brazil.
-</div>
-
- <br> 
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
@@ -36,8 +32,8 @@
   </a>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=luzdrik&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="140" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luzdrik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="140" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=luzdrik&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luzdrik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <br>
