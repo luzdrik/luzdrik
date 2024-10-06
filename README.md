@@ -1,4 +1,4 @@
-# Welcome to my profile 👋🏼. My name is Luiz and I'm a Software Engineering Student, from Universidade Federal do Rio Grande do Norte, Natal, Brazil.
+# Welcome to my profile 👋🏼. My name is Luiz and I'm a student of Bachelor of Information Technology, from Universidade Federal do Rio Grande do Norte, Natal, Brazil.
 
 <br>
 
@@ -37,9 +37,6 @@
 </div>
 
 <br>
-
-<p align="center"> I study Software Engineering at UFRN, in Brazil, and I am currently learning HTML5 and Python. I am open to acquiring new knowledge if you have any interest in me.
-
 ###
 
 <p align="center">You can check my musical taste, if you care about it.</p>
